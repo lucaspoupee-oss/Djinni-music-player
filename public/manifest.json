@@ -8,7 +8,7 @@
   "action": {
     "title": "DJinni Music Player",
     "icon": "/icon.svg",
-    "popover": "/",
+    "popover": "/index.html",
     "height": 400,
     "width": 580
   }
